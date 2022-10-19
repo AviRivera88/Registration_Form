@@ -1,0 +1,86 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.wrapper {
+    background-image: image(background1);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 30px 30px;
+    min-width: 370px;
+    max-width: 370px;
+    border-radius: 8px;
+}
+.wrapper .title {
+    margin: 10px 0;
+    border-left: 5px solid #fab1a0;
+    padding-left: 5px;
+    color: black;
+    font-size: 25px;
+}
+.wrapper .form {
+    margin: 10px 0;
+}
+.wrapper .form .input-field {
+    width: 100%;
+    display: block;
+    margin: 10px 0;
+}
+.wrapper .form .input-field .input-label {
+    display: block;
+    margin-bottom: 2px;
+    font-weight: 500;
+    font-size: 15px;
+    color: blue;
+
+}
+.wrapper .form .input-field .input {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border: 1px solid #ccc;
+    font-size: 15px;
+    border-radius: 5px;
+    transition: 0.3s all ease;
+}
+.wrapper .form .input-field .input:focus {
+    border-color: #ED4C67;
+}
+.wrapper .form .btn {
+    background: #ED4C67;
+    border: 1px solid #ED4C67;
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    color: white;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+    margin: 10px 0;
+    transition: 0.3s all ease;
+    border-radius: 8px;
+}
+.wrapper .form .btn:hover, .form .btn:focus {
+    background: #27ae60;
+
+}
+.alert {
+    padding: 10px;
+    width: 100%;
+    margin: 10px 0;
+}
+.alert-danger {
+    background: #EA2027;
+    color: white;
+}
+.alert-success {
+    background-color: #009432;
+    color: white;
+} */
